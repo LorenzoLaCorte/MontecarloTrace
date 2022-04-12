@@ -1,0 +1,44 @@
+Stima della Traccia - Lorenzo La Corte
+
+La norma di Frobenius (||A||_F)^2 della matrice A è: 5.08718e+08
+
+La traccia Tr(A) della matrice A è: 3.00050e+04
+
+Sto usando M=5
+
+Traccia Media Empirica: 3.03245e+04
+
+Confronto Tra:
+Varianza Media Empirica: 1.69685e+08
+La varianza reale della matrice A è: 2.03375e+08
+2(||A||_F)^2/M: 2.03487e+08
+--------------------------------------------------------------------
+
+Sto usando M=10
+
+Traccia Media Empirica: 3.25571e+04
+
+Confronto Tra:
+Varianza Media Empirica: 8.50065e+07
+La varianza reale della matrice A è: 1.01688e+08
+2(||A||_F)^2/M: 1.01744e+08
+--------------------------------------------------------------------
+
+Sto usando M=25
+
+Traccia Media Empirica: 3.00165e+04
+
+Confronto Tra:
+Varianza Media Empirica: 3.37838e+07
+La varianza reale della matrice A è: 4.06750e+07
+2(||A||_F)^2/M: 4.06975e+07
+--------------------------------------------------------------------
+
+Sto usando M=100
+
+Traccia Media Empirica: 2.98018e+04
+
+Confronto Tra:
+Varianza Media Empirica: 8.42450e+06
+La varianza reale della matrice A è: 1.01688e+07
+2(||A||_F)^2/M: 1.01744e+07

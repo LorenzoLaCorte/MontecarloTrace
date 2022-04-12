@@ -1,0 +1,6 @@
+Per eseguire il programma: python3 TracciaMC.py
+
+I primi risultati vengono stampati dopo qualche secondo; 
+Per m=5, m=10 ed m=25 ci vogliono circa 2 minuti in totale, mentre l'iterazione per m=100 richiede qualche minuto.
+
+I risultati di due esecuzioni del programma sono contenuti nelle sottocartelle "risultati" (istogrammi compresi), e sono quelli utilizzate per redarre la relazione.
